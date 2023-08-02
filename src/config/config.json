@@ -1,0 +1,16 @@
+{
+    "comunication": {
+        "mongo": {
+            "ip": "localhost",
+            "port": 27017
+        },
+        "flask": {
+            "ip": "0.0.0.0",
+            "port": 5000
+        }
+    },
+    "device": {
+        "address": "HASHEM",
+        "mining": true
+    }
+}
